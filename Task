@@ -2,3 +2,7 @@ Add
 String 2
 Str4
 Int 3
+Int a,b,c
+read a
+sum=a+b
+Print sum
